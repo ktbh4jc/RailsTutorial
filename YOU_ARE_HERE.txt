@@ -1,2 +1,1 @@
-Listing 7.31: Adding the contents of the flash variable to the site layout.
-app/views/layouts/application.html.erb
+8.2.4 Testing layout changes
